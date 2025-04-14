@@ -23,8 +23,8 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 /*
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: MOHAMED ARSHADULLAH A
-RegisterNumber: 212224230161
+Developed by: A Pugazh sozhan
+RegisterNumber: 212224240121
 */
 import numpy as np
 n=int(input())
@@ -52,8 +52,7 @@ for i in range(n):
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/77a58dd8-48c5-4384-90fc-9786dcb9a053)
-
+![image](https://github.com/user-attachments/assets/54af76fd-3546-4dfb-81be-714542031740)
 
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
